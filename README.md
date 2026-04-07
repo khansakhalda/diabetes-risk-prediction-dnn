@@ -149,6 +149,6 @@ This improves trust and transparency in model decisions.
 
 ## 👩‍💻 Author
 
-**Khansa Khalda**
-Machine Learning Project
+**Khansa Khalda**  
+Machine Learning Project<br>
 Jenderal Soedirman University
